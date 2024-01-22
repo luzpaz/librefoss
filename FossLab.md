@@ -8,3 +8,5 @@ BIDS - Brain Imaging Data Structure
 [VTK](https://vtk.org/)
 
 [Paraview](https://www.paraview.org/)
+
+[FreeCAD](https://freecad.org)
