@@ -3,10 +3,11 @@ BIDS - Brain Imaging Data Structure
 
 [OpenSource Imageing](https://www.opensourceimaging.org/) Open Source Magnetic Resonance Imaging
 
-[MITK](https://www.mitk.org/) Medical Imaging Interaction Toolkit
 
-[VTK](https://vtk.org/)
+### Software 
 
+[MITK](https://www.mitk.org/) Medical Imaging Interaction Toolkit  
+[VTK](https://vtk.org/)  
+[ITK](https://itk.org/) https://github.com/InsightSoftwareConsortium/ITK  
 [Paraview](https://www.paraview.org/)
-
 [FreeCAD](https://freecad.org)
