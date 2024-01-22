@@ -10,4 +10,5 @@ BIDS - Brain Imaging Data Structure
 [VTK](https://vtk.org/)  
 [ITK](https://itk.org/) https://github.com/InsightSoftwareConsortium/ITK  
 [Paraview](https://www.paraview.org/)
-[FreeCAD](https://freecad.org)
+[FreeCAD](https://freecad.org)  
+[Slicer](https://www.slicer.org/)
