@@ -6,3 +6,5 @@ BIDS - Brain Imaging Data Structure
 [MITK](https://www.mitk.org/) Medical Imaging Interaction Toolkit
 
 [VTK](https://vtk.org/)
+
+[Paraview](https://www.paraview.org/)
