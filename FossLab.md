@@ -137,8 +137,8 @@ A list of relevant software that is part of a toolchain
 <br clear="right"/>
 
 #### scipy
-<a href="https://repology.org/project/scipy/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/scipy.svg?columns=3&header=scipy&exclude_unsupported=1" alt="Packaging status" align="right">
+<a href="https://repology.org/project/python:scipy/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/python:scipy.svg?columns=3&header=scipy&exclude_unsupported=1" alt="Packaging status" align="right">
 </a>
 
 [:house:](https://scipy.org/) [:octocat:](https://github.com/scipy/scipy) [:bookmark:](https://scipy.org/news/)
